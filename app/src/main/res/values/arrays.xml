@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_theme">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>Purple</item>
+        <item>Teal</item>
+        <item>Pink</item>
+    </string-array>
+</resources>
