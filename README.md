@@ -11,4 +11,4 @@
 
 > 대회 제출용 PPT 
 <br><br>
-[내손안의냉장고_PPT.pptx](https://github.com/zzawang/Refrigerator-inMyHand/files/11183104/_PPT.pptx)
+[RefrigeratorInMyHand_PPT.pptx](https://github.com/zzawang/Refrigerator-inMyHand/files/11183106/RefrigeratorInMyHand_PPT.pptx)
